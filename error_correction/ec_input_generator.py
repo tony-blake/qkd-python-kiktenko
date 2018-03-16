@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # coding: utf-8
 
-imort common
+
 import sys
 import os
 
